@@ -36,8 +36,6 @@ cat > README.md <<'EOF'
 
 **Contract:** `0x80BF73f6C84D9E9F2dDb0c6b02eEf40f74C231Aa`
 
-[Xem contract trên Sepolia Etherscan](https://sepolia.etherscan.io/address/0x80BF73f6C84D9E9F2dDb0c6b02eEf40f74C231Aa)
-
 ## Cài đặt và kiểm thử hợp đồng
 
 ```bash
