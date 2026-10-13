@@ -1,0 +1,21 @@
+
+# File chứa thông tin bí mật
+.env
+.env.*
+**/.env
+**/.env.*
+!.env.example
+!**/.env.example
+
+# Thư viện và file sinh ra khi chạy/biên dịch
+node_modules/
+**/node_modules/
+artifacts/
+**/artifacts/
+cache/
+**/cache/
+coverage/
+**/build/
+.DS_Store
+
+/package-lock.json
