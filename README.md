@@ -8,7 +8,6 @@ cat > README.md <<'EOF'
 ## Thông tin sinh viên
 
 - **Sinh viên:** Dương Ánh Ngọc
-- **Mã sinh viên:** B23DCTC076
 - **Đơn vị:** Học viện Công nghệ Bưu chính Viễn thông (PTIT)
 
 ## Chức năng
